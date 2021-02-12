@@ -36644,6 +36644,7 @@
         <value>8</value>
       </interrupt>
       <name>PIO0</name>
+      <groupName>PIO</groupName>
       <registers>
         <register>
           <addressOffset>0x0000</addressOffset>
